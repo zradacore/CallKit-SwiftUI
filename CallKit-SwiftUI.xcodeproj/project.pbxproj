@@ -11,6 +11,21 @@
 		B17B7DC02ABDB3C100BEB714 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DBF2ABDB3C100BEB714 /* ContentView.swift */; };
 		B17B7DC22ABDB3C200BEB714 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B17B7DC12ABDB3C200BEB714 /* Assets.xcassets */; };
 		B17B7DC52ABDB3C200BEB714 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B17B7DC42ABDB3C200BEB714 /* Preview Assets.xcassets */; };
+		B17B7DCD2ABDB3E800BEB714 /* CallManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DCC2ABDB3E800BEB714 /* CallManager.swift */; };
+		B17B7DCF2ABDB82A00BEB714 /* CallActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DCE2ABDB82A00BEB714 /* CallActions.swift */; };
+		B17B7DD12ABDB97200BEB714 /* ProviderDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DD02ABDB97200BEB714 /* ProviderDelegate.swift */; };
+		B17B7DD32ABDBDCD00BEB714 /* CXProviderConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DD22ABDBDCD00BEB714 /* CXProviderConfiguration.swift */; };
+		B17B7DD62ABDBE1C00BEB714 /* Bundle+DisplayName.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DD52ABDBE1C00BEB714 /* Bundle+DisplayName.swift */; };
+		B17B7DD82ABDC1D900BEB714 /* CXProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DD72ABDC1D900BEB714 /* CXProvider.swift */; };
+		B17B7DDB2ABDC26600BEB714 /* CXCallUpdate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DDA2ABDC26600BEB714 /* CXCallUpdate.swift */; };
+		B17B7DDD2ABDC88600BEB714 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DDC2ABDC88600BEB714 /* AppDelegate.swift */; };
+		B17B7DDF2ABDC88F00BEB714 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DDE2ABDC88F00BEB714 /* SceneDelegate.swift */; };
+		B17B7DE32ABDCFF000BEB714 /* DialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DE22ABDCFF000BEB714 /* DialView.swift */; };
+		B17B7DE62ABDD17E00BEB714 /* Receiver.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DE52ABDD17E00BEB714 /* Receiver.swift */; };
+		B17B7DE82ABDE6D400BEB714 /* IncomingInterfaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DE72ABDE6D400BEB714 /* IncomingInterfaceView.swift */; };
+		B17B7DEC2ABDE78200BEB714 /* ActiveCallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DEB2ABDE78200BEB714 /* ActiveCallView.swift */; };
+		B17B7DEE2ABEDF6200BEB714 /* RoundedRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DED2ABEDF6200BEB714 /* RoundedRectangle.swift */; };
+		B17B7DF02ABEDF7900BEB714 /* View+CornerRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17B7DEF2ABEDF7900BEB714 /* View+CornerRadius.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +34,22 @@
 		B17B7DBF2ABDB3C100BEB714 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B17B7DC12ABDB3C200BEB714 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B17B7DC42ABDB3C200BEB714 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B17B7DCC2ABDB3E800BEB714 /* CallManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallManager.swift; sourceTree = "<group>"; };
+		B17B7DCE2ABDB82A00BEB714 /* CallActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallActions.swift; sourceTree = "<group>"; };
+		B17B7DD02ABDB97200BEB714 /* ProviderDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProviderDelegate.swift; sourceTree = "<group>"; };
+		B17B7DD22ABDBDCD00BEB714 /* CXProviderConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CXProviderConfiguration.swift; sourceTree = "<group>"; };
+		B17B7DD52ABDBE1C00BEB714 /* Bundle+DisplayName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle+DisplayName.swift"; sourceTree = "<group>"; };
+		B17B7DD72ABDC1D900BEB714 /* CXProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CXProvider.swift; sourceTree = "<group>"; };
+		B17B7DDA2ABDC26600BEB714 /* CXCallUpdate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CXCallUpdate.swift; sourceTree = "<group>"; };
+		B17B7DDC2ABDC88600BEB714 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B17B7DDE2ABDC88F00BEB714 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		B17B7DE22ABDCFF000BEB714 /* DialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialView.swift; sourceTree = "<group>"; };
+		B17B7DE52ABDD17E00BEB714 /* Receiver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Receiver.swift; sourceTree = "<group>"; };
+		B17B7DE72ABDE6D400BEB714 /* IncomingInterfaceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncomingInterfaceView.swift; sourceTree = "<group>"; };
+		B17B7DEB2ABDE78200BEB714 /* ActiveCallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActiveCallView.swift; sourceTree = "<group>"; };
+		B17B7DED2ABEDF6200BEB714 /* RoundedRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedRectangle.swift; sourceTree = "<group>"; };
+		B17B7DEF2ABEDF7900BEB714 /* View+CornerRadius.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+CornerRadius.swift"; sourceTree = "<group>"; };
+		B17B7DF12ABEE62800BEB714 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +82,12 @@
 		B17B7DBC2ABDB3C100BEB714 /* CallKit-SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				B17B7DBD2ABDB3C100BEB714 /* CallKit_SwiftUIApp.swift */,
-				B17B7DBF2ABDB3C100BEB714 /* ContentView.swift */,
+				B17B7DF12ABEE62800BEB714 /* Info.plist */,
+				B17B7DE42ABDD16100BEB714 /* Model */,
+				B17B7DE12ABDCFE100BEB714 /* Startup */,
+				B17B7DE02ABDCFD600BEB714 /* Views */,
+				B17B7DD42ABDBE0A00BEB714 /* Extensions */,
+				B17B7DCB2ABDB3D400BEB714 /* CallKit */,
 				B17B7DC12ABDB3C200BEB714 /* Assets.xcassets */,
 				B17B7DC32ABDB3C200BEB714 /* Preview Content */,
 			);
@@ -65,6 +100,66 @@
 				B17B7DC42ABDB3C200BEB714 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B17B7DCB2ABDB3D400BEB714 /* CallKit */ = {
+			isa = PBXGroup;
+			children = (
+				B17B7DD92ABDC25100BEB714 /* Extension */,
+				B17B7DCC2ABDB3E800BEB714 /* CallManager.swift */,
+				B17B7DCE2ABDB82A00BEB714 /* CallActions.swift */,
+				B17B7DD02ABDB97200BEB714 /* ProviderDelegate.swift */,
+			);
+			path = CallKit;
+			sourceTree = "<group>";
+		};
+		B17B7DD42ABDBE0A00BEB714 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				B17B7DD52ABDBE1C00BEB714 /* Bundle+DisplayName.swift */,
+				B17B7DEF2ABEDF7900BEB714 /* View+CornerRadius.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		B17B7DD92ABDC25100BEB714 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				B17B7DD22ABDBDCD00BEB714 /* CXProviderConfiguration.swift */,
+				B17B7DD72ABDC1D900BEB714 /* CXProvider.swift */,
+				B17B7DDA2ABDC26600BEB714 /* CXCallUpdate.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		B17B7DE02ABDCFD600BEB714 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B17B7DBF2ABDB3C100BEB714 /* ContentView.swift */,
+				B17B7DE22ABDCFF000BEB714 /* DialView.swift */,
+				B17B7DE72ABDE6D400BEB714 /* IncomingInterfaceView.swift */,
+				B17B7DEB2ABDE78200BEB714 /* ActiveCallView.swift */,
+				B17B7DED2ABEDF6200BEB714 /* RoundedRectangle.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B17B7DE12ABDCFE100BEB714 /* Startup */ = {
+			isa = PBXGroup;
+			children = (
+				B17B7DBD2ABDB3C100BEB714 /* CallKit_SwiftUIApp.swift */,
+				B17B7DDC2ABDC88600BEB714 /* AppDelegate.swift */,
+				B17B7DDE2ABDC88F00BEB714 /* SceneDelegate.swift */,
+			);
+			path = Startup;
+			sourceTree = "<group>";
+		};
+		B17B7DE42ABDD16100BEB714 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B17B7DE52ABDD17E00BEB714 /* Receiver.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +232,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B17B7DDB2ABDC26600BEB714 /* CXCallUpdate.swift in Sources */,
+				B17B7DE32ABDCFF000BEB714 /* DialView.swift in Sources */,
+				B17B7DCD2ABDB3E800BEB714 /* CallManager.swift in Sources */,
+				B17B7DD82ABDC1D900BEB714 /* CXProvider.swift in Sources */,
+				B17B7DF02ABEDF7900BEB714 /* View+CornerRadius.swift in Sources */,
+				B17B7DCF2ABDB82A00BEB714 /* CallActions.swift in Sources */,
+				B17B7DD32ABDBDCD00BEB714 /* CXProviderConfiguration.swift in Sources */,
+				B17B7DEC2ABDE78200BEB714 /* ActiveCallView.swift in Sources */,
+				B17B7DEE2ABEDF6200BEB714 /* RoundedRectangle.swift in Sources */,
+				B17B7DD62ABDBE1C00BEB714 /* Bundle+DisplayName.swift in Sources */,
+				B17B7DE62ABDD17E00BEB714 /* Receiver.swift in Sources */,
 				B17B7DC02ABDB3C100BEB714 /* ContentView.swift in Sources */,
+				B17B7DDF2ABDC88F00BEB714 /* SceneDelegate.swift in Sources */,
 				B17B7DBE2ABDB3C100BEB714 /* CallKit_SwiftUIApp.swift in Sources */,
+				B17B7DDD2ABDC88600BEB714 /* AppDelegate.swift in Sources */,
+				B17B7DE82ABDE6D400BEB714 /* IncomingInterfaceView.swift in Sources */,
+				B17B7DD12ABDB97200BEB714 /* ProviderDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,14 +377,17 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"CallKit-SwiftUI/Preview Content\"";
-				DEVELOPMENT_TEAM = 25WYRVH429;
+				DEVELOPMENT_TEAM = 83VY89W334;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "CallKit-SwiftUI/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Call-Call";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -299,11 +412,14 @@
 				DEVELOPMENT_TEAM = 25WYRVH429;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "CallKit-SwiftUI/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Call-Call";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
